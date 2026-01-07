@@ -1,4 +1,4 @@
-# levelup_flask-
+# levelup_flask
 
 <h2>Login page</h2>
 <img width="1008" height="889" alt="Screenshot 2025-10-06 at 2 35 56 PM" src="https://github.com/user-attachments/assets/8e21875b-c4e8-488c-b588-25b0f6ad74f2" />
